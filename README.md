@@ -40,7 +40,7 @@ The datasets used in this paper are publicly available and can be downloaded as 
 - [WLASL](https://dxli94.github.io/WLASL/)
 - [LSA64](https://facundoq.github.io/datasets/lsa64/)
 - [AUTSL](https://cvml.ankara.edu.tr/datasets/)
-- 
+  
 
 ## Backbone Preparation
 
