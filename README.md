@@ -33,6 +33,14 @@ where `<path_i>` points to a video file, and `<label_i>` is an integer between `
 Additionally, `<path_i>` might be a relative path when `--data_root` is specified, and the actual path will be
 relative to the path passed as `--data_root`.
 
+## Datasets Download
+
+The datasets used in this paper are publicly available and can be downloaded as follows:
+- [KArSL](https://hamzah-luqman.github.io/KArSL/)
+- [WLASL](https://dxli94.github.io/WLASL/)
+- [LSA64](https://facundoq.github.io/datasets/lsa64/)
+- [AUTSL](https://cvml.ankara.edu.tr/datasets/)
+- 
 
 ## Backbone Preparation
 
