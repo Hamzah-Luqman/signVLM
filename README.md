@@ -57,4 +57,4 @@ For other command line arguments please see the help message for usage.
 
 ## Acknowledgements
 
-The data loader code is modified from [PySlowFast](https://github.com/facebookresearch/SlowFast) and [EfficeintVideoRecognition](https://github.com/OpenGVLab/efficient-video-recognition). Thanks for their awesome work!
+We would like to knowledge [PySlowFast](https://github.com/facebookresearch/SlowFast) and [EfficeintVideoRecognition](https://github.com/OpenGVLab/efficient-video-recognition) for sharing their codes. Thanks for their awesome work!
