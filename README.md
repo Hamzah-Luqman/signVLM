@@ -1,12 +1,12 @@
-# FrozenSign: A pretrained Large Vision Model for Sign Language Recognition
+# SignVLM: A Pre-trained Large Vision Model for Sign Language Recognition
 
-This is the official implementation of the paper "FrozenSign: A pretrained Large Vision Model for Sign Language Recognition"
+This is the official implementation of the paper "FrozenSign: A Pre-trained Large Vision Model for Sign Language Recognition"
 
 
 
 ## Introduction
 
-The overall architecture of the framework includes a trainable Transformer decoder, trainable local temporal modules and a pretrained, fixed image backbone
+The overall architecture of the framework includes a trainable Transformer decoder, trainable local temporal modules and pre-trained models, fixed image backbone
 (CLIP is used for this work).
 
 
