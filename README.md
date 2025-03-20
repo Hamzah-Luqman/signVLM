@@ -1,6 +1,6 @@
 # SignVLM: A Pre-trained Large Vision Model for Sign Language Recognition
 
-This is the official implementation of the paper "FrozenSign: A Pre-trained Large Vision Model for Sign Language Recognition"
+This is the official implementation of the paper "SignVLM: A Pre-trained Large Vision Model for Sign Language Recognition"
 
 
 
